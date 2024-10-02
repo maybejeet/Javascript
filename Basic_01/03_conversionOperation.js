@@ -32,5 +32,14 @@ let booleanisLoggedIn=Boolean(isLoggedIn)
 
 let someVariable = "69sddc"
 let stringVariable = String(someVariable)
-console.log(stringVariable)
-console.log(typeof stringVariable)
+// console.log(stringVariable)
+// console.log(typeof stringVariable)
+
+//****************operations*****************
+console.log(2+3);
+console.log(2+"3");
+console.log("2"+3);
+console.log("2"+"3");
+console.log("2"+3+1);
+console.log(2+3+"1");
+
